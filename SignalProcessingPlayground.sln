@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SignalProcessingPlayground", "SignalProcessingPlayground\SignalProcessingPlayground.fsproj", "{293E94C3-F17C-47B0-A8C9-A497B7B86F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293E94C3-F17C-47B0-A8C9-A497B7B86F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293E94C3-F17C-47B0-A8C9-A497B7B86F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293E94C3-F17C-47B0-A8C9-A497B7B86F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293E94C3-F17C-47B0-A8C9-A497B7B86F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947BF5FB-33EE-41C6-9122-4175DE5AB090}
+	EndGlobalSection
+EndGlobal
